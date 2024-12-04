@@ -1,0 +1,18 @@
+core:
+  - utils
+  - data
+  - models
+  - logging
+  - tests
+ml_experiments:
+  - hyperparameter_tuning
+  - model_training
+queries:
+  - exploratory
+  - production
+dashboards:
+  - overview
+  - detailed
+gold: []
+silver: []
+bronze: []

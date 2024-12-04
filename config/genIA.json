@@ -1,0 +1,12 @@
+{
+    "user": "john_doe",
+    "project_name": "projectTest",
+    "logging": {
+        "level": "INFO",
+        "log_file": "logfile.log"
+    },
+    "databricks": {
+        "cluster_id": "cluster-123",
+        "workspace_url": "https://databricks.example.com"
+    }
+}
